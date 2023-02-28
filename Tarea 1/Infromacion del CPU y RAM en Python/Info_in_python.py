@@ -30,3 +30,6 @@ men_used = MEMORY.used  # RAM en uso
 print(f"Memoria RAM Disponible: {men_available / 1024 / 1024:.2f} MB")
 print(f"Memoria RAM en Uso: {men_used / 1024 / 1024:.2f} MB")
 print(F"Total de RAM de la PC: {MEMORY_TOTAL / 1024 / 1024:.2F} MB")
+
+"""No encontre forma de saber mis bus de datos y sobre los procesos en ejecuion,
+   tengo la forma de mostrarlos todos pero algo complicada se veia muy feo y preferi no ponerlo"""
