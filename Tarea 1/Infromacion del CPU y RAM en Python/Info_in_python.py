@@ -48,9 +48,9 @@ print("El Tipo de Procesador que usa esta PC es un:",
 
 # Impresion de la arquitectura del bsu de datos
 if arch == "32bit":
-    print("La arquitectura de Bus de datos de este equipo es de 32 bits")
+    print("La arquitectura de Bus de datos de este equipo es de: 32 bits")
 elif arch == "64bit":
-    print("La arquitectura de Bus de datos de este equipo es de 64 bits")
+    print("La arquitectura de Bus de datos de este equipo es de: 64 bits")
 else:
     print("No se puede determinar la arquitectura de Bus de datos de este equipo")
 
